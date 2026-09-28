@@ -143,9 +143,10 @@ A Spotify-inspired music player built using web technologies.
   <img src="https://streak-stats.demolab.com?user=aswithdhanisetti-hub&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 ---
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aswithdhanisetti-hub/aswithdhanisetti-hub/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aswithdhanisetti-hub/aswithdhanisetti-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
